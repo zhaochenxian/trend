@@ -510,7 +510,7 @@ advanced:
 
   # 消息分批大小（字节）- 内部配置，请勿修改
   batch_size:
-    default: 4000
+    default: 2000
     dingtalk: 20000
     feishu: 30000
     bark: 4000
